@@ -1,4 +1,4 @@
 
 # Calculator
 Developed a simple calculator using HTML,CSS and JS.
-Demo : 
+Demo : https://prajwal28432.github.io/Calculator/
